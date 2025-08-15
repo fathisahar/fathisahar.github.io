@@ -10,6 +10,13 @@ import "./Experience2.css";
 function Experience() {
   const experiences = [
     {
+      date: "May 2025 to August 2025",
+      title: "Software Developer Engineer Intern",
+      company: "Amazon Web Services",
+      css: "aws",
+      logo: require("./aws.png"),
+    },
+    {
       date: "January 2025 to April 2025",
       title: "Software Developer Intern",
       company: "RBC Capital Markets",

@@ -8,7 +8,7 @@ function Header2() {
       <div className="profile">
         <p className='name'>Sahar Fathi</p>
         <p className='top'>Software Engineering Co-op Student</p>
-        <p className='top'>3rd year @ McGill University</p>
+        <p className='top'>4th year @ McGill University</p>
       </div>
       <div className="social-icons">
         <a className= 'icon' href="https://github.com/fathisahar" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
