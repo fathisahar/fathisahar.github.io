@@ -11,7 +11,7 @@ function Experience() {
   const experiences = [
     {
       date: "May 2025 to August 2025",
-      title: "Software Developer Engineer Intern",
+      title: "Software Development Engineer Intern",
       company: "Amazon Web Services",
       css: "aws",
       logo: require("./aws.png"),
